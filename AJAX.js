@@ -52,7 +52,7 @@ var showFriends = function () {
         $("#input").val("");
       });
     } else {
-      alert("Debe ingresar un id"); // Aparece el alert si no ingreso un ID.
+      alert("Debe ingresar un id");    // Aparece el alert si no ingreso un ID.
       $("#amigo").text("");
     }
   });
