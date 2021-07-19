@@ -1,4 +1,4 @@
-// // Tareas: Homework AJAX 
+// // Tareas: Homework AJAX --
 // // Escribe codigo en los archivos index.html y index.js para que la pagina tenga las siguientes funcionalidades:
 
 // // Utiliza el evento click en un boton para hacer que al hacer click en el mismo aparezca en el DOM una lista
