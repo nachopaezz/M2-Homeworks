@@ -6,7 +6,7 @@
 // 1) startEl: es el elemento del arbol del DOM donde la busqueda comenzará.
 // Si startEl es undefined, la busqueda comienza en document.body.
 
-// 2) matchFunc: la función generada por nuestro matchFunctionMaker.
+// 2) matchFunc: la función generada por nuestro matchFunctionMaker..
 // Testea si un elemento dado matchea con el selector o no,
 // y por lo tanto si deberia ser recolectado o no.
 
